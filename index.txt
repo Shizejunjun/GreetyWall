@@ -2,3 +2,9 @@
 这是我最新修改的
 第三次修改
 sourecetree提交的
+git init 
+git remote add 别名 远程仓库地址
+git add 文件
+git commit -m 提交描述
+git pull
+git push
